@@ -1,0 +1,4 @@
+package com.example.jwtproject;
+
+public class JwtProjectApplication {
+}
